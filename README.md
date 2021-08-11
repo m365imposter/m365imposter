@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there imposters👋
 
 <!--
 **m365imposter/m365imposter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: TypeScript
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: samuel@m365imposter.co.za
+- 😄 Pronouns: TypeScript
